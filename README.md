@@ -1,4 +1,4 @@
-# Arduinomon Webserver
+# Arduinomon Web
 
 Webserveren som er inkludert i Arduinomon består av to komponenter: RESTful API og nettside.
 
